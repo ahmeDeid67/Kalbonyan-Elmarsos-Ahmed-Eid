@@ -3,4 +3,5 @@
 - Continue your coding journey as you dive deeper into the foundational concepts, practices, and terminology of programming. In this installment of the Programming Foundations series, instructor Sasha Vodnik goes beyond the basics, using Python to tackle a variety of intermediate and advanced concepts and skills you can add to your programming repertoire. Sasha covers creating and working with collections and loops, combining and manipulating strings, and using external code—all of which are critical concepts, regardless of which programming language you end up working with. He goes over several essential processes, such as choosing a code style and debugging. Plus, he digs into a few more advanced concepts, including memory management and multithreading.
 ---
 [Course Link](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/?resume=false)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/242777c41ac8825c628b5df0337196b5e85620bbb9dc9bb955f53efa06fcd8ff?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B4OvvOR2QQMOAXUf3CcPjAw%3D%3D)
+<br><img src="https://media-exp1.licdn.com/dms/image/C4D1FAQFTMIT_xa5Bcw/feedshare-document-cover-images_1280/0/1648930007175?e=1661616000&v=beta&t=SYre-G1Z4hIu3qIIX7yqLEzZR3iKTHfd6-qwoUDVOZU" />
