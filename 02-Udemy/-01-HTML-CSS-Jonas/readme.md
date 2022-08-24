@@ -12,7 +12,8 @@
 ## Projects
 ### Omnifood
 - [Project-code](./Projects/Omnifood) <br>
-- [Live Demo](https://omnifood.dev/)
+- [Live Demo](https://omnifood-ahmed-eid.netlify.app/)
+- view in [](https://omnifood-ahmed-eid.netlify.app/)
 ---
 ## Code
 - [Code](Code)
