@@ -1,0 +1,64 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+
+article {
+  border: 5px solid #000;
+}
+
+article h2 {
+  text-align: center;
+  background-color: #dad9d9;
+  text-transform: uppercase;
+}
+
+article strong {
+  font-size: 22px;
+  font-weight: bold;
+  color: #000;
+}
+
+article .text {
+  color: #444;
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+article p {
+  color: #444;
+}
+
+article a:link {
+  color: #444;
+  display: inline-block;
+}
+
+article a:hover {
+  text-decoration: none;
+}
+
+section h3 {
+  text-transform: uppercase;
+}
+
+section ul {
+  list-style: square;
+  color: #444;
+}
+
+article button {
+  background-color: #000;
+  border: none;
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+article button:hover {
+  background-color: #fff;
+  color: #000;
+}
