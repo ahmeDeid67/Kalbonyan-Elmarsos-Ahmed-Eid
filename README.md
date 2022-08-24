@@ -30,9 +30,9 @@
     - [x] ` Done` ` 1h 45m 30s` - 05 - [Programming Foundations: Algorithms](01-Linkedin-Learning/-05-Programming-Foundations-Algorithms/)
     - [x] ` Done` ` 1h 44m 23s` - 06 - [Programming Foundations: Design Patterns](01-Linkedin-Learning/-06-Programming-Foundations-Design-Patterns/)
     - [x] ` Done` ` 1h 25m 15s` - 07 - [Programming Foundations: Databases](01-Linkedin-Learning/-07-Programming-Foundations-Databases/)
-    - [ ] ` in progress` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](01-Linkedin-Learning/-08-Programming-Foundations-APIs-and-Web-Services/)
-    - [ ] ` in progress` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](01-Linkedin-Learning/-09-Programming-Foundations-Software-TestingQA/)
-    - [ ] ` in progress` ` 2h 11m ` - 10 - [Learning GitHub](01-Linkedin-Learning/-10-Learning-GitHub)
+    - [x] ` Done` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](01-Linkedin-Learning/-08-Programming-Foundations-APIs-and-Web-Services/)
+    - [x] ` Done` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](01-Linkedin-Learning/-09-Programming-Foundations-Software-TestingQA/)
+    - [x] ` Done` ` 2h 11m ` - 10 - [Learning GitHub](01-Linkedin-Learning/-10-Learning-GitHub)
     - [ ] ` in progress` ` 37h 30m ` - 11 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas)
 
     <br />
