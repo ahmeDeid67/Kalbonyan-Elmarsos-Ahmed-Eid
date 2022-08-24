@@ -13,6 +13,7 @@
 ### Omnifood
 - [Project-code](./Projects/Omnifood) <br>
 - [Live Demo](https://omnifood-ahmed-eid.netlify.app/)
+<img src='project/omnifood/omnifood-screenshot.png' />
 ---
 ## Code
 - [Code](Code)
