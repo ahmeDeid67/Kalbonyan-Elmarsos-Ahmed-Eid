@@ -4,4 +4,5 @@
 
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/learning-github)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://www.linkedin.com/learning/certificates/210d1ac3194cdcf18d5a83760070d49e0eaf5e243dbf714ba4cc999bd81e3b18?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BNuE0WuGCThKUwpH9L5mfVg%3D%3D)
+<br><img src="https://media-exp1.licdn.com/dms/image/C4D1FAQHX1jMfdtXjqw/feedshare-document-cover-images_1280/0/1650599869160?e=1661871600&v=beta&t=WpEGy8J8hl5Z9wmi7JomyCq1hMwZh_n8qWoEhesHd-U" />
