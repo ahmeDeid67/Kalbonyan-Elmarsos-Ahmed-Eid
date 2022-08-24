@@ -19,7 +19,7 @@
 <span id="Fundamentals"> </span>
 # Learn Programing Fundamentals ,HTMl and CSS
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 - ## Programming foundations path and HTML and CSS
 
@@ -33,7 +33,7 @@
     - [x] ` Done` ` 1h 14m 28s` - 08 - [Programming Foundations: APIs and Web Services](01-Linkedin-Learning/-08-Programming-Foundations-APIs-and-Web-Services/)
     - [x] ` Done` ` 53m 51s` - 09 - [Programming Foundations: Software Testing/QA](01-Linkedin-Learning/-09-Programming-Foundations-Software-TestingQA/)
     - [x] ` Done` ` 2h 11m ` - 10 - [Learning GitHub](01-Linkedin-Learning/-10-Learning-GitHub)
-    - [ ] ` in progress` ` 37h 30m ` - 11 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas)
+    - [x] ` Done` ` 37h 30m ` - 11 - [Build Responsive Real-World Websites with HTML and CSS](02-Udemy/-01-HTML-CSS-Jonas)
 
     <br />
 
@@ -48,14 +48,14 @@
 ![0%](https://progress-bar.dev/0/?title=Done)
 <br />
 ## JavaScript - Select one of these 2 courses to complete
-- [ ]  `in progress` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
+- [-]  `Not Choose` `29h 30m` - 13 - [The Modern JavaScript Bootcamp](./02-Udemy/-02-Js-Andrew)
 - [ ]  `in progress` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
 ## ReactJs - Select one of these 2 courses to complete
 - [ ]  `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](./02-Udemy/-03-Reactjs-Maximilian)
-- [ ]  `in progress` `39h` - 14 - [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](/02-Udemy/-03-Reactjs-ZTM)
+- [-]  `Not Chooses` `39h` - 14 - [Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL)](/02-Udemy/-03-Reactjs-ZTM)
 ## NodeJs - Select one of these 2 courses to complete
 - [ ] `in progress` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](/02-Udemy/-04-Nodejs-Andrew)
-- [ ]  `in progress` `46h` - 15 - [Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)](./02-Udemy/-04-Nodejs-ZTM)
+- [-]  `Not Choose` `46h` - 15 - [Complete NodeJS Developer in 2022 (GraphQL, MongoDB, + more)](./02-Udemy/-04-Nodejs-ZTM)
 
 <!--<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-157h30m-blue"> -->
 <br />
