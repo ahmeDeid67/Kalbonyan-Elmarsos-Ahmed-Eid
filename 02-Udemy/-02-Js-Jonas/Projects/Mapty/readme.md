@@ -2,4 +2,4 @@
 
 ## Mapty Javascript Project
 
-<br><img src="imgs/project-screenshot.png" />
+<br><img src="project-screenshot.png" />
