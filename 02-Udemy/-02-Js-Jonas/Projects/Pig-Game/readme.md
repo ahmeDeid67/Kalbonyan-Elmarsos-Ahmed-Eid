@@ -1,3 +1,3 @@
 # Pig-game
 Pig-game Project
-<img src="imgs/project-screenshot" />
+<img src="imgs/project-screenshot.png" />
