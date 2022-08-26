@@ -22,7 +22,7 @@
 ### Bankist
 
 - [Project-code](./Projects/Bankist)
-- [Live Demo](https://eclectic-daifuku-966ce9.netlify.app/)
+- [Live Demo](https://bankist-app-javascript-project.netlify.app/)
 
 ### Bankist Site
 
