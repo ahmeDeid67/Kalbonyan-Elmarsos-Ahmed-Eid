@@ -53,12 +53,12 @@
 ### Tasks app with firebase(S15)
 
 - [Project-code](./Projects/task-app-firbase/)
-- [Live Demo]()
+- [Live Demo](https://tasks-app-react-project.netlify.app/)
 
 ### Form-app(S16)
 
 - [Project-code](./Projects/form-app)
-- [Live Demo]()
+- [Live Demo](https://form-app-react-project.netlify.app/)
 
 ### Order-food App (S17)
 
