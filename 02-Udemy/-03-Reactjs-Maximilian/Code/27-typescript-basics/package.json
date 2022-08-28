@@ -1,0 +1,23 @@
+{
+  "name": "todo-app-ts",
+  "version": "1.0.0",
+  "description": "todo-app-TS react project",
+  "main": "no-typescript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmeDeid67/todo-app-TS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmeDeid67/todo-app-TS/issues"
+  },
+  "homepage": "https://github.com/ahmeDeid67/todo-app-TS#readme",
+  "dependencies": {
+    "typescript": "^4.8.2"
+  }
+}
