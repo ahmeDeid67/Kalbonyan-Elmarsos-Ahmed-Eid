@@ -113,7 +113,7 @@
 ### Section 29 Project
 
 - [Project-code](./Projects/Section-29/)
-- [Live Demo]()
+- [Live Demo](https://section-29-project.vercel.app/)
 
 ---
 
