@@ -16,13 +16,9 @@
 
 ### goals app (S6-S7)
 
-- [Section 6 Code](./Projects/goals-app/S06-project/)
-- [Section 7 Code](./Projects/goals-app/S07-project/)
+- [Project Code](./Projects/goals-app/S06-project/)
+- [Live Demo]()
 
-<br/>
-
-- [Section 6 Project Live Demo]()
-- [Section 7 Project Live Demo]()
 
 ### Section 8-9 Project
 
