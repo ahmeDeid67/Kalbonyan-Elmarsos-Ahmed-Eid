@@ -73,7 +73,7 @@
 ### Redux Cart(S19)
 
 - [Project-code](./Projects/redux-cart)
-- [Live Demo]()
+- [Live Demo](https://redux-cart-react-project.netlify.app/)
 
 ### Quotes app(S20)
 
