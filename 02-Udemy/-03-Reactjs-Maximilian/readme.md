@@ -16,7 +16,7 @@
 
 ### goals app (S6-S7)
 
-- [Project Code](./Projects/goals-app/S06-project/)
+- [Project Code](./Projects/goals-app/code-Project/)
 - [Live Demo](https://goals-app-react-project.netlify.app/)
 
 
