@@ -16,14 +16,14 @@
 
 ### goals app (S6-S7)
 
-- [Project Code](./Projects/goals-app/S06-project/)
-- [Live Demo]()
+- [Project Code](./Projects/goals-app/code-project/)
+- [Live Demo](https://goals-app-react-project.netlify.app/)
 
 
 ### Section 8-9 Project
 
 - [Project-code](./Projects/section-8-9-project)
-- [Live Demo]()
+- [Live Demo](https://section-8-9-react-project.netlify.app/)
 
 ### Login-app (S10)
 
