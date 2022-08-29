@@ -103,7 +103,7 @@
 ### todo-app-TS(S27)
 
 - [Project-code](./Projects/todo-app-TS)
-- [Live Demo]()
+- [Live Demo](https://todo-app-ts-nine.vercel.app/)
 
 ### ingredients-app(S28)
 
