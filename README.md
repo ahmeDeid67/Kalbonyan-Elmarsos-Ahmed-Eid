@@ -45,14 +45,14 @@
 
 <span id="MERN"></span>
 # MERN Stack
-![0%](https://progress-bar.dev/0/?title=Done)
+![100%](https://progress-bar.dev/100/?title=Done)
 <br />
 ## JavaScript
 - [x]  `Done` `69h` - 13 - [The Complete JavaScript Course 2022: From Zero to Expert!](./02-Udemy/-02-Js-Jonas)
 ## ReactJs
-- [ ]  `in progress` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](./02-Udemy/-03-Reactjs-Maximilian)
+- [x]  `Done` `48h` - 14 - [React - The Complete Guide (incl Hooks, React Router, Redux)](./02-Udemy/-03-Reactjs-Maximilian)
 ## NodeJs
-- [ ] `in progress` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](/02-Udemy/-04-Nodejs-Andrew)
+- [x] `Done` `35h` - 15 - [The Complete Node.js Developer Course (3rd Edition)](/02-Udemy/-04-Nodejs-Andrew)
 
 <!--<img src="https://img.shields.io/badge/Total%20Number%20Of%20Hours%20For%20This%20Courses-157h30m-blue"> -->
 <br />
