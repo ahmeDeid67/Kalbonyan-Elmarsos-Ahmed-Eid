@@ -7,7 +7,7 @@
 - [Project-code](./Projects/Task-Manager-API)
 ### Weather App
 - [Project-code](./Projects/Weather-App)
-- [Live Demo]()
+- [Live Demo](https://weather-app-node-1.herokuapp.com/)
 ### Chat App
 - [Project-code](./Projects/Chat-App)
 - [Live Demo]()
