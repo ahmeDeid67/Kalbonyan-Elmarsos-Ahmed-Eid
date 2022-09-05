@@ -4,4 +4,4 @@
 ---
 [Course Link](https://www.linkedin.com/learning/programming-foundations-beyond-the-fundamentals/?resume=false)
 <br>[Preview Certificate](https://www.linkedin.com/learning/certificates/242777c41ac8825c628b5df0337196b5e85620bbb9dc9bb955f53efa06fcd8ff?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3B4OvvOR2QQMOAXUf3CcPjAw%3D%3D)
-<br><img src="https://media-exp1.licdn.com/dms/image/C4D1FAQFTMIT_xa5Bcw/feedshare-document-cover-images_1280/0/1648930007175?e=1661616000&v=beta&t=SYre-G1Z4hIu3qIIX7yqLEzZR3iKTHfd6-qwoUDVOZU" />
+<br><img src="certificate.png" />
