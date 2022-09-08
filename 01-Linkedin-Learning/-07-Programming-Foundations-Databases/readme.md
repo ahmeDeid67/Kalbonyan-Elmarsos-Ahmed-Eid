@@ -16,4 +16,4 @@
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-databases-2/why-use-a-database)
 <br>[Preview Certificate](https://www.linkedin.com/learning/certificates/a2a7aecb5241dfca3c316cdf588f9e02117f0aead90b05512482308a6aa92b0a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BVMRHC8kWTwClgJRJimNsyA%3D%3D)
-<br><img src="https://media-exp1.licdn.com/dms/image/C4D1FAQEZhtvc6ylSHQ/feedshare-document-cover-images_1280/0/1650142953354?e=1661814000&v=beta&t=0BtyBOChJKaAVpNWV_7i7RP-bkpNYvi31Ie6wmzwovs" />
+<br><img src="certificate.png" />
