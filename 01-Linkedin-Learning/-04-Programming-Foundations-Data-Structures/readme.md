@@ -14,4 +14,4 @@
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-data-structures-2/)
 <br>[Preview Certificate](https://www.linkedin.com/learning/certificates/21d6bf05896a0b91ad27e269605601d0ac77f8a44afae26fc748ebf6bbe5ff71?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BsHwD9rXhQA6%2FpwYqjWU7yg%3D%3D)
-<br><img src="https://media-exp1.licdn.com/dms/image/C4D1FAQGkD4zyz6kwYQ/feedshare-document-cover-images_1280/0/1649625872134?e=1661709600&v=beta&t=zWuxbETXuaQv-xBLn4C9aaTr188djtqGKOy2S4V4IH0" />
+<br><img src="certificate.png" />
