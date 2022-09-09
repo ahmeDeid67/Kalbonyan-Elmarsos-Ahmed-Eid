@@ -12,7 +12,7 @@
 ## Projects
 ### Omnifood
 - [Project-code](./Projects/Omnifood) <br>
-- [Live Demo](https://omnifood-ahmed-eid.netlify.app/)
+- [Live Demo](https://omnifood-app.vercel.app/)
 ---
 ## Code
 - [Code](Code)
