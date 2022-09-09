@@ -10,20 +10,20 @@
 
   <br/>
 
-- [Section 3 Project Live Demo](https://section-3-project.netlify.app/)
-- [Section 4 Project Live Demo](https://react-section4-project.netlify.app/)
-- [Section 5 Project Live Demo](https://section5-react-project.netlify.app/)
+- [Section 3 Project Live Demo](https://section-3-project.vercel.app/)
+- [Section 4 Project Live Demo](https://react-section4-project.vercel.app/)
+- [Section 5 Project Live Demo](https://section5-react-project.vercel.app/)
 
 ### goals app (S6-S7)
 
 - [Project Code](./Projects/goals-app/code-project/)
-- [Live Demo](https://goals-app-react-project.netlify.app/)
+- [Live Demo](https://goals-app-react-project.vercel.app/)
 
 
 ### Section 8-9 Project
 
 - [Project-code](./Projects/section-8-9-project)
-- [Live Demo](https://section-8-9-react-project.netlify.app/)
+- [Live Demo](https://section-8-9-react-project.vercel.app/)
 
 ### Login-app (S10)
 
