@@ -22,22 +22,22 @@
 ### Bankist
 
 - [Project-code](./Projects/Bankist)
-- [Live Demo](https://bankist-app-javascript-project.netlify.app/)
+- [Live Demo](https://bankist-app-blond.vercel.app/)
 
 ### Bankist Site
 
 - [Project-code](./Projects/Bankist-Site)
-- [Live Demo](https://bankist-website-javascript-project.netlify.app/)
+- [Live Demo](https://bankist-website-theta.vercel.app/)
 
 ### Mapty
 
 - [Project-code](./Projects/Mapty)
-- [Live Demo](https://mapty-javascript-project-ahmed.netlify.app/)
+- [Live Demo](https://mapty-rosy.vercel.app/)
 
 ### Forkify
 
 - [Project-code](./Projects/Forkify)
-- [Live Demo](https://forkify-ahmedeid.netlify.app/)
+- [Live Demo](https://forkify-project-tan.vercel.app/)
 
 ---
 
