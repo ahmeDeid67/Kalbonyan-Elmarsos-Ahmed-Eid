@@ -17,7 +17,7 @@
 ### Pig Game
 
 - [Project-code](./Projects/Pig-Game)
-- [Live Demo](https://pig-game-javascript-project.netlify.app/)
+- [Live Demo](https://pig-game-xi.vercel.app/)
 
 ### Bankist
 
