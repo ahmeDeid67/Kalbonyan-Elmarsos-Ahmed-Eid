@@ -13,4 +13,4 @@
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-software-testing-qa)
 <br>[Preview Certificate](https://www.linkedin.com/learning/certificates/2d8c7fa520d9db7ecc799e6603996e52195cc552b59316e82b9989a965957037?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BVRd6ej83QqiEtz6NNthE3Q%3D%3D)
-<br><img src="https://media-exp1.licdn.com/dms/image/C4D1FAQG7hZ5W-6GjNg/feedshare-document-cover-images_1280/0/1650486978472?e=1661871600&v=beta&t=NJZ-RMTuza7Mzxf9y-fxceOAr4_o7G8JfzpIoZ2Q4Q4" />
+<br><img src="certificate.png" />

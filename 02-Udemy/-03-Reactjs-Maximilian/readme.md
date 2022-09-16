@@ -10,80 +10,80 @@
 
   <br/>
 
-- [Section 3 Project Live Demo](https://section-3-project.netlify.app/)
-- [Section 4 Project Live Demo](https://react-section4-project.netlify.app/)
-- [Section 5 Project Live Demo](https://section5-react-project.netlify.app/)
+- [Section 3 Project Live Demo](https://section-3-project.vercel.app/)
+- [Section 4 Project Live Demo](https://react-section4-project.vercel.app/)
+- [Section 5 Project Live Demo](https://section5-react-project.vercel.app/)
 
 ### goals app (S6-S7)
 
 - [Project Code](./Projects/goals-app/code-project/)
-- [Live Demo](https://goals-app-react-project.netlify.app/)
+- [Live Demo](https://goals-app-react-project.vercel.app/)
 
 
 ### Section 8-9 Project
 
 - [Project-code](./Projects/section-8-9-project)
-- [Live Demo](https://section-8-9-react-project.netlify.app/)
+- [Live Demo](https://section-8-9-react-project.vercel.app/)
 
 ### Login-app (S10)
 
 - [Project-code](./Projects/Login-app-s10/)
-- [Live Demo](https://login-app-react-project.netlify.app/)
+- [Live Demo](https://login-app-react-project.vercel.app/)
 
 ### Order-food App (S11)
 
 - [Project-code](./Projects/order-food-app/S11-project/)
-- [Live Demo](https://order-food-app-react-project.netlify.app/)
+- [Live Demo](https://order-food-app-two.vercel.app/)
 
 ### Section 12 Project
 
 - [Project-code](./Projects/S12-project)
-- [Live Demo](https://section-12-react-project.netlify.app/)
+- [Live Demo](https://section-12-react-project.vercel.app/)
 
 ### Section 13 Project
 
 - [Project-code](./Projects/S13-project)
-- [Live Demo](https://section-13-react-project.netlify.app/)
+- [Live Demo](https://section-13-react-project.vercel.app/)
 
 ### movies app(S14)
 
 - [Project-code](./Projects/movies-app)
-- [Live Demo](https://movies-app-react-project.netlify.app/)
+- [Live Demo](https://movies-app-seven-weld.vercel.app/)
 
 ### Tasks app with firebase(S15)
 
 - [Project-code](./Projects/task-app-firbase/)
-- [Live Demo](https://tasks-app-react-project.netlify.app/)
+- [Live Demo](https://tasks-app-with-firebase.vercel.app/)
 
 ### Form-app(S16)
 
 - [Project-code](./Projects/form-app)
-- [Live Demo](https://form-app-react-project.netlify.app/)
+- [Live Demo](https://form-app-opal.vercel.app/)
 
 ### Order-food App (S17)
 
 - [Project Code](./Projects/order-food-app/S17-project/)
-- [Final Project Live Live Demo](https://order-food-app-2-react-project.netlify.app/)
+- [Final Project Live Live Demo](https://order-food-app-2.vercel.app/)
 
 ### Redux Counter(S18)
 
 - [Project-code](./Projects/redux-counter)
-- [Live Demo](https://redux-counter-react-project.netlify.app/)
+- [Live Demo](https://redux-counter-tau.vercel.app/)
 
 ### Redux Cart(S19)
 
 - [Project-code](./Projects/redux-cart)
-- [Live Demo](https://redux-cart-react-project.netlify.app/)
+- [Live Demo](https://redux-cart-eight.vercel.app/)
 
 ### Quotes app(S20)
 
 - [Project-code](./Projects/quotes-app)
-- [Live Demo](https://quotes-app-react-project.netlify.app/)
+- [Live Demo](https://quotes-app-sepia.vercel.app/quotes)
 
 ### Authentication-page(S22)
 
 - [Project-code](./Projects/Authentication-page)
-- [Live Demo](https://authentication-page-react-project.netlify.app/)
+- [Live Demo](https://authentication-page-steel.vercel.app/)
 
 ### Meetsup app(S23)
 
