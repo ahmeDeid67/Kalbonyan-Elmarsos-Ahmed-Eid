@@ -3,9 +3,9 @@ import Form from "react-bootstrap/Form";
 import { useNavigate } from "react-router-dom";
 import LoaderButton from "../components/LoaderButton";
 import { onError } from "../lib/errorLib";
+import config from "../config";
 import { API } from "aws-amplify";
 import { s3Upload } from "../lib/awsLib";
-import config from "../config";
 import "./NewNote.css";
 
 export default function NewNote() {
@@ -38,7 +38,6 @@ export default function NewNote() {
 
     try {
       const attachment = file.current ? await s3Upload(file.current) : null;
-      console.log(createNote({ content, attachment }));
 
       await createNote({ content, attachment });
       nav("/");
@@ -57,14 +56,14 @@ export default function NewNote() {
   return (
     <div className="NewNote">
       <Form onSubmit={handleSubmit}>
-        <Form.Group controlId="content">
+        <Form.Group controlId="content" className="mb-3">
           <Form.Control
             value={content}
             as="textarea"
             onChange={(e) => setContent(e.target.value)}
           />
         </Form.Group>
-        <Form.Group controlId="file">
+        <Form.Group controlId="file" className="mb-3">
           <Form.Label>Attachment</Form.Label>
           <Form.Control onChange={handleFileChange} type="file" />
         </Form.Group>
@@ -75,6 +74,7 @@ export default function NewNote() {
           variant="primary"
           isLoading={isLoading}
           disabled={!validateForm()}
+          className="w-100"
         >
           Create
         </LoaderButton>

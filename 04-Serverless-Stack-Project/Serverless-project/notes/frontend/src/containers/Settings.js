@@ -11,6 +11,7 @@ import config from "../config";
 export default function Settings() {
   const nav = useNavigate();
   const [isLoading, setIsLoading] = useState(false);
+
   const stripePromise = loadStripe(config.STRIPE_KEY);
 
   function billUser(details) {

@@ -2,10 +2,10 @@ import React, { useRef, useState, useEffect } from "react";
 import { useParams, useNavigate } from "react-router-dom";
 import { API, Storage } from "aws-amplify";
 import { onError } from "../lib/errorLib";
-import { s3Upload } from "../lib/awsLib";
 import Form from "react-bootstrap/Form";
 import LoaderButton from "../components/LoaderButton";
 import config from "../config";
+import { s3Upload } from "../lib/awsLib";
 import "./Notes.css";
 
 export default function Notes() {
@@ -121,14 +121,14 @@ export default function Notes() {
     <div className="Notes">
       {note && (
         <Form onSubmit={handleSubmit}>
-          <Form.Group controlId="content">
+          <Form.Group controlId="content" className="mb-3">
             <Form.Control
               as="textarea"
               value={content}
               onChange={(e) => setContent(e.target.value)}
             />
           </Form.Group>
-          <Form.Group controlId="file">
+          <Form.Group controlId="file" className="mb-3">
             <Form.Label>Attachment</Form.Label>
             {note.attachment && (
               <p>
@@ -149,15 +149,18 @@ export default function Notes() {
             type="submit"
             isLoading={isLoading}
             disabled={!validateForm()}
+            className="w-100"
           >
             Save
           </LoaderButton>
+
           <LoaderButton
             block="true"
             size="lg"
             variant="danger"
             onClick={handleDelete}
             isLoading={isDeleting}
+            className="w-100"
           >
             Delete
           </LoaderButton>

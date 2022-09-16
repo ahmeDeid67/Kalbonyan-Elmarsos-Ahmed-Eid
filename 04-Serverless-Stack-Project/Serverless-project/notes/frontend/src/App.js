@@ -1,18 +1,22 @@
 import React, { useState, useEffect } from "react";
-import { useNavigate } from "react-router-dom";
-import { AppContext } from "./lib/contextLib";
-import { onError } from "./lib/errorLib";
-import { LinkContainer } from "react-router-bootstrap";
-import { Auth } from "aws-amplify";
 import Navbar from "react-bootstrap/Navbar";
+import { AppContext } from "./lib/contextLib";
+import { Auth } from "aws-amplify";
+import { useNavigate } from "react-router-dom";
+import { onError } from "./lib/errorLib";
+import ErrorBoundary from "./components/ErrorBoundary";
+
 import Routes from "./Routes";
 import Nav from "react-bootstrap/Nav";
+
+import { LinkContainer } from "react-router-bootstrap";
+
 import "./App.css";
 
 function App() {
-  const nav = useNavigate();
   const [isAuthenticated, userHasAuthenticated] = useState(false);
   const [isAuthenticating, setIsAuthenticating] = useState(true);
+  const nav = useNavigate();
 
   useEffect(() => {
     onLoad();
@@ -41,11 +45,9 @@ function App() {
   return (
     !isAuthenticating && (
       <div className="App container py-3">
-        <Navbar collapseOnSelect bg="light" expand="md" className="mb-3">
+        <Navbar collapseOnSelect bg="light" expand="md" className="mb-3 p-3">
           <LinkContainer to="/">
-            <Navbar.Brand className="font-weight-bold text-muted">
-              Scratch
-            </Navbar.Brand>
+            <Navbar.Brand className="fw-bold text-muted">Scratch</Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle />
           <Navbar.Collapse className="justify-content-end">
@@ -70,9 +72,13 @@ function App() {
             </Nav>
           </Navbar.Collapse>
         </Navbar>
-        <AppContext.Provider value={{ isAuthenticated, userHasAuthenticated }}>
-          <Routes />
-        </AppContext.Provider>
+        <ErrorBoundary>
+          <AppContext.Provider
+            value={{ isAuthenticated, userHasAuthenticated }}
+          >
+            <Routes />
+          </AppContext.Provider>
+        </ErrorBoundary>
       </div>
     )
   );

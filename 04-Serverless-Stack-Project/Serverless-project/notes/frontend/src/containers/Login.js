@@ -43,6 +43,7 @@ export default function Login() {
             type="email"
             value={fields.email}
             onChange={handleFieldChange}
+            className="mb-4"
           />
         </Form.Group>
         <Form.Group size="lg" controlId="password">
@@ -51,6 +52,7 @@ export default function Login() {
             type="password"
             value={fields.password}
             onChange={handleFieldChange}
+            className="mb-4"
           />
         </Form.Group>
         <LoaderButton
@@ -59,7 +61,7 @@ export default function Login() {
           type="submit"
           isLoading={isLoading}
           disabled={!validateForm()}
-          className="mt-3 w-100"
+          className="w-100"
         >
           Login
         </LoaderButton>

@@ -57,6 +57,7 @@ export default function BillingForm({ isLoading, onSubmit }) {
           value={fields.storage}
           onChange={handleFieldChange}
           placeholder="Number of notes to store"
+          className="mb-3"
         />
       </Form.Group>
       <hr />
@@ -67,6 +68,7 @@ export default function BillingForm({ isLoading, onSubmit }) {
           value={fields.name}
           onChange={handleFieldChange}
           placeholder="Name on the card"
+          className="mb-3"
         />
       </Form.Group>
       <Form.Label>Credit Card Info</Form.Label>
@@ -89,6 +91,7 @@ export default function BillingForm({ isLoading, onSubmit }) {
         type="submit"
         isLoading={isLoading}
         disabled={!validateForm()}
+        className="w-100"
       >
         Purchase
       </LoaderButton>

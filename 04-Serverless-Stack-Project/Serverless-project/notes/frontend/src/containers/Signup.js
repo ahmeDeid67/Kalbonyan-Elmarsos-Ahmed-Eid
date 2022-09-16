@@ -2,10 +2,10 @@ import React, { useState } from "react";
 import Form from "react-bootstrap/Form";
 import { useNavigate } from "react-router-dom";
 import LoaderButton from "../components/LoaderButton";
-import { Auth } from "aws-amplify";
 import { useAppContext } from "../lib/contextLib";
 import { useFormFields } from "../lib/hooksLib";
 import { onError } from "../lib/errorLib";
+import { Auth } from "aws-amplify";
 import "./Signup.css";
 
 export default function Signup() {
@@ -65,7 +65,7 @@ export default function Signup() {
   function renderConfirmationForm() {
     return (
       <Form onSubmit={handleConfirmationSubmit}>
-        <Form.Group controlId="confirmationCode" size="lg">
+        <Form.Group controlId="confirmationCode" size="lg" className="mb-3">
           <Form.Label>Confirmation Code</Form.Label>
           <Form.Control
             autoFocus
@@ -82,6 +82,7 @@ export default function Signup() {
           variant="success"
           isLoading={isLoading}
           disabled={!validateConfirmationForm()}
+          className="w-100"
         >
           Verify
         </LoaderButton>
@@ -92,32 +93,29 @@ export default function Signup() {
   function renderForm() {
     return (
       <Form onSubmit={handleSubmit}>
-        <Form.Group controlId="email" size="lg">
+        <Form.Group controlId="email" size="lg" className="mb-3">
           <Form.Label>Email</Form.Label>
           <Form.Control
             autoFocus
             type="email"
             value={fields.email}
             onChange={handleFieldChange}
-            className="mb-3"
           />
         </Form.Group>
-        <Form.Group controlId="password" size="lg">
+        <Form.Group controlId="password" size="lg" className="mb-3">
           <Form.Label>Password</Form.Label>
           <Form.Control
             type="password"
             value={fields.password}
             onChange={handleFieldChange}
-            className="mb-3"
           />
         </Form.Group>
-        <Form.Group controlId="confirmPassword" size="lg">
+        <Form.Group controlId="confirmPassword" size="lg" className="mb-3">
           <Form.Label>Confirm Password</Form.Label>
           <Form.Control
             type="password"
             onChange={handleFieldChange}
             value={fields.confirmPassword}
-            className="mb-3"
           />
         </Form.Group>
         <LoaderButton
