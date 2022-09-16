@@ -22,7 +22,6 @@
 
 ## Features
 
--
--
--
--
+- Create note with attachments
+- Edit and delete notes
+- Purchase for notes
