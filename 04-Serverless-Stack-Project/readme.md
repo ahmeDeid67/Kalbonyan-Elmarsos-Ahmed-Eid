@@ -17,10 +17,11 @@
 <img src="3.png" />
 <img src="6.png" />
 <img src="7.png" />
+<img src="8.png" />
+<img src="9.png" />
 
 ## Features
 
--
--
--
--
+- Create note with attachments
+- Edit and delete notes
+- Purchase for notes
