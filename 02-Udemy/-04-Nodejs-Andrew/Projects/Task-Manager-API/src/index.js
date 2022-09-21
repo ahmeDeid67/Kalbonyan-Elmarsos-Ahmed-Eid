@@ -1,6 +1,12 @@
-const app = require('./app')
-const port = process.env.PORT
+import express from "express";
+import "./db/mongoose.js";
+import userRouter from "./routers/user.js";
+import taskRouter from "./routers/task.js";
 
-app.listen(port, () => {
-    console.log('Server is up on port ' + port)
-})
+const app = express();
+
+app.use(express.json());
+app.use(userRouter);
+app.use(taskRouter);
+
+export default app;
