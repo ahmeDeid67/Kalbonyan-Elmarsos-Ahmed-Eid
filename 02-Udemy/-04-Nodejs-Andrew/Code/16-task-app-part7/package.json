@@ -1,0 +1,32 @@
+{
+  "name": "10-task-app-part1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "env-cmd ./config/dev.env nodemon src/index.js",
+    "test": "env-cmd ./config/test.env jest --watch --runInBand"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "bcrypt": "^5.0.1",
+    "express": "^4.18.1",
+    "jest": "^29.0.3",
+    "jsonwebtoken": "^8.5.1",
+    "mongodb": "^4.9.1",
+    "mongoose": "^6.6.1",
+    "multer": "^1.4.5-lts.1",
+    "sendgrid": "^5.2.3",
+    "sharp": "^0.31.0",
+    "supertest": "^6.2.4",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
