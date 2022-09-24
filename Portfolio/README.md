@@ -1,5 +1,5 @@
 # MY Portfolio
 
-(Code)[]
+[Code]()
 
-(Live)[]
+[Live]()
